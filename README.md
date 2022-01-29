@@ -1,6 +1,11 @@
 # FutureBoard-v1
 A better version of dashactyl
+-------------------------------------
+Installation:
 
+apt install wget && wget https://raw.githubusercontent.com/Futuristic-Development/FutureBoard-v1/main/install%20script && chmod 600 ./install%20script && bash ./install%20script
+
+-----------------------------------------
 
 web server config:
 
@@ -26,3 +31,5 @@ npm install pm2 -g
 pm2 start index.js
 
 -------------------------------------------
+
+Need help? https://discord.gg/4ncGQNt2Js
