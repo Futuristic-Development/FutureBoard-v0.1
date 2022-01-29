@@ -3,7 +3,7 @@ A better version of dashactyl
 -------------------------------------
 Installation:
 
-apt install wget && wget https://raw.githubusercontent.com/Futuristic-Development/FutureBoard-v0.1/main/install%20script && chmod 600 ./install%20script && bash ./install%20script
+apt install wget && wget https://raw.githubusercontent.com/Futuristic-Development/FutureBoard-v0.1/main/installscript && chmod 600 ./installscript && bash ./installscript
 
 -----------------------------------------
 
