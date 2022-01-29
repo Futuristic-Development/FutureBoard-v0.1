@@ -20,3 +20,5 @@ cd FutureBoard-v0.1
 npm install
 
 echo **done** you will have to config the webserver by yourself you can get help in the readme
+
+echo and you will have to do settings.json
