@@ -22,6 +22,7 @@ then go to nginx-config
 then go back to ur original folder in futureboard and run
 
 npm install pm2 -g
+
 pm2 start index.js
 
 -------------------------------------------
