@@ -1,1 +1,22 @@
+echo install script v0.1
 
+sudo apt update && sudo apt upgrade
+
+sudo apt install git
+curl -fsSL https://deb.nodesource.com/setup_12.x | sudo bash -
+apt install nodejs
+
+apt install aptitude
+
+aptitude install npm
+
+apt install nginx
+sudo apt install certbot
+sudo apt install -y python3-certbot-nginx
+
+git clone https://github.com/Futuristic-Development/FutureBoard-v1
+unzip FutureBoard-v0.1.zip
+cd FutureBoard-v0.1
+npm install
+
+echo **done** you will have to config the webserver by yourself you can get help in the readme
