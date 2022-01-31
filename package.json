@@ -141,7 +141,7 @@
     "napi-build-utils": "^1.0.2",
     "negotiator": "^0.6.2",
     "node-abi": "^2.30.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "npmlog": "^4.1.2",
     "number-is-nan": "^1.0.1",
     "object-assign": "^4.1.1",
