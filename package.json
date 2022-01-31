@@ -204,7 +204,7 @@
     "util": "^0.12.4",
     "util-deprecate": "^1.0.2",
     "utils-merge": "^1.0.1",
-    "validator": "^13.6.0",
+    "validator": "^13.7.0",
     "vary": "^1.1.2",
     "which-boxed-primitive": "^1.0.2",
     "which-typed-array": "^1.1.4",
